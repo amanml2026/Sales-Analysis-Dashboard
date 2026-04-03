@@ -32,23 +32,28 @@ This project analyzes global sales data using Python, Pandas, and Matplotlib. It
 
 ```bash
 pip install pandas matplotlib python-dateutil
-Insights
+```
+## Insights
 -Sales increased significantly after the first quarter of 2013
 -Technology category contributed most to overall sales
 -United States leads in total sales
 -Central region has the highest share of sales
 -Majority of sales are in the 0–500 USD range
 -High-value sales (over 1000 USD) are rare
+
+```
 ## Usage
 
 1. Clone this repository:  
-
-```bash
 git clone https://github.com/amanml2026/Sales-Analysis-Dashboard.git
+
 2.Navigate to the project folder:
 cd.Sales-Analysis-Dashboard
+
 3.Run the analysis script:
 python main.py
+
+```
 
 Folder Structure:
 Sales-Analysis-Dashboard/
