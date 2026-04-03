@@ -41,30 +41,36 @@ pip install pandas matplotlib python-dateutil
 -Majority of sales are in the 0–500 USD range
 -High-value sales (over 1000 USD) are rare
 
-```
+
 ## Usage
 
-1. Clone this repository:  
+1. Clone this repository:
+```  
 git clone https://github.com/amanml2026/Sales-Analysis-Dashboard.git
-
+```
 2.Navigate to the project folder:
+```
 cd.Sales-Analysis-Dashboard
-
+```
 3.Run the analysis script:
+```
 python main.py
 
 ```
 
-Folder Structure:
+## Folder Structure:
+
 Sales-Analysis-Dashboard/
 ├── main.py
 ├── sales.csv
 ├── plots/          # Optional: store generated plots here
 └── README.md
 
-License:
+## License:
+
 This project is licensed under the MIT License. You are free to use, modify, and distribute it for personal or professional purposes.
 
-Repository Link:
+## Repository Link:
+
 https://github.com/amanml2026/Sales-Analysis-Dashboard
 
